@@ -1,6 +1,6 @@
-package caseStudy.views;
+package Casestudy_Module_2.caseStudy.views;
 
-import caseStudy.services.iml.CommonCheck;
+import Casestudy_Module_2.caseStudy.services.iml.CommonCheck;
 
 
 public class ViewMenu {

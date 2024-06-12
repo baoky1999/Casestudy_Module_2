@@ -1,13 +1,13 @@
-package caseStudy.repositories;
+package Casestudy_Module_2.caseStudy.repositories;
 
-import caseStudy.models.AdminProduct;
-import caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.models.AdminProduct;
+import Casestudy_Module_2.caseStudy.models.Product;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import static caseStudy.repositories.AdminRepositories.URL_DATA;
+import static Casestudy_Module_2.caseStudy.repositories.AdminRepositories.URL_DATA;
 
 public class ProductNormalRepo {
 

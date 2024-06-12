@@ -1,4 +1,4 @@
-package caseStudy.models;
+package Casestudy_Module_2.caseStudy.models;
 
 public class InformationCustomer {
 

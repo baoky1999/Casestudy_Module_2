@@ -1,4 +1,4 @@
-package caseStudy.services.iml;
+package Casestudy_Module_2.caseStudy.services.iml;
 
 import java.util.Scanner;
 

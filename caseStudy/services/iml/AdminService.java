@@ -1,10 +1,10 @@
-package caseStudy.services.iml;
+package Casestudy_Module_2.caseStudy.services.iml;
 
-import caseStudy.models.Product;
-import caseStudy.repositories.AdminRepositories;
-import caseStudy.repositories.CartRepositories;
-import caseStudy.repositories.ChatRepo;
-import caseStudy.services.AdminMethod;
+import Casestudy_Module_2.caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.repositories.AdminRepositories;
+import Casestudy_Module_2.caseStudy.repositories.CartRepositories;
+import Casestudy_Module_2.caseStudy.repositories.ChatRepo;
+import Casestudy_Module_2.caseStudy.services.AdminMethod;
 
 import java.util.ArrayList;
 import java.util.List;

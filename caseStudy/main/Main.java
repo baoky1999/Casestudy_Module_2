@@ -1,6 +1,6 @@
-package caseStudy.main;
+package Casestudy_Module_2.caseStudy.main;
 
-import caseStudy.controllers.SignIn;
+import Casestudy_Module_2.caseStudy.controllers.SignIn;
 
 public class Main {
 

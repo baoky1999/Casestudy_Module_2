@@ -1,7 +1,7 @@
-package caseStudy.views;
+package Casestudy_Module_2.caseStudy.views;
 
-import caseStudy.models.InformationCustomer;
-import caseStudy.services.iml.CommonCheck;
+import Casestudy_Module_2.caseStudy.models.InformationCustomer;
+import Casestudy_Module_2.caseStudy.services.iml.CommonCheck;
 
 import java.util.Scanner;
 

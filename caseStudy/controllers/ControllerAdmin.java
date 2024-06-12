@@ -1,11 +1,11 @@
-package caseStudy.controllers;
+package Casestudy_Module_2.caseStudy.controllers;
 
-import caseStudy.models.Product;
-import caseStudy.repositories.CartRepositories;
-import caseStudy.repositories.ChatRepo;
-import caseStudy.services.iml.AdminService;
-import caseStudy.views.ViewMenu;
-import caseStudy.views.ViewWareHouse;
+import Casestudy_Module_2.caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.repositories.CartRepositories;
+import Casestudy_Module_2.caseStudy.repositories.ChatRepo;
+import Casestudy_Module_2.caseStudy.services.iml.AdminService;
+import Casestudy_Module_2.caseStudy.views.ViewMenu;
+import Casestudy_Module_2.caseStudy.views.ViewWareHouse;
 
 import java.util.List;
 

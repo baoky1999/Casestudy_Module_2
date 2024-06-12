@@ -1,6 +1,6 @@
-package caseStudy.services.iml;
+package Casestudy_Module_2.caseStudy.services.iml;
 
-import caseStudy.services.LogInService;
+import Casestudy_Module_2.caseStudy.services.LogInService;
 
 public class CheckAccount implements LogInService {
 

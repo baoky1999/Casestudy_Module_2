@@ -1,8 +1,8 @@
-package caseStudy.controllers;
+package Casestudy_Module_2.caseStudy.controllers;
 
-import caseStudy.services.iml.CheckAccount;
-import caseStudy.views.LogIn;
-import caseStudy.views.ViewMenu;
+import Casestudy_Module_2.caseStudy.services.iml.CheckAccount;
+import Casestudy_Module_2.caseStudy.views.LogIn;
+import Casestudy_Module_2.caseStudy.views.ViewMenu;
 
 public class SignIn {
 

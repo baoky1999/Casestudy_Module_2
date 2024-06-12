@@ -1,4 +1,4 @@
-package caseStudy.services;
+package Casestudy_Module_2.caseStudy.services;
 
 public interface LogInService {
 

@@ -1,7 +1,7 @@
-package caseStudy.repositories;
+package Casestudy_Module_2.caseStudy.repositories;
 
-import caseStudy.models.Product;
-import caseStudy.services.iml.CustomerService;
+import Casestudy_Module_2.caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.services.iml.CustomerService;
 
 import java.io.*;
 import java.util.*;

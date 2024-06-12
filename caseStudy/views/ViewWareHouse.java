@@ -1,10 +1,10 @@
-package caseStudy.views;
+package Casestudy_Module_2.caseStudy.views;
 
-import caseStudy.models.AdminProduct;
-import caseStudy.models.Product;
-import caseStudy.models.ProductSpecial;
-import caseStudy.repositories.AdminRepositories;
-import caseStudy.services.iml.CommonCheck;
+import Casestudy_Module_2.caseStudy.models.AdminProduct;
+import Casestudy_Module_2.caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.models.ProductSpecial;
+import Casestudy_Module_2.caseStudy.repositories.AdminRepositories;
+import Casestudy_Module_2.caseStudy.services.iml.CommonCheck;
 
 import java.util.List;
 import java.util.Scanner;

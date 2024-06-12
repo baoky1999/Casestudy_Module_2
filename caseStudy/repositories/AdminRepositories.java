@@ -1,8 +1,8 @@
-package caseStudy.repositories;
+package Casestudy_Module_2.caseStudy.repositories;
 
-import caseStudy.models.AdminProduct;
-import caseStudy.models.Product;
-import caseStudy.models.ProductSpecial;
+import Casestudy_Module_2.caseStudy.models.AdminProduct;
+import Casestudy_Module_2.caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.models.ProductSpecial;
 
 import java.io.*;
 import java.util.ArrayList;

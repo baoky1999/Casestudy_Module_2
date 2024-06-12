@@ -1,6 +1,6 @@
-package caseStudy.services;
+package Casestudy_Module_2.caseStudy.services;
 
-import caseStudy.models.Product;
+import Casestudy_Module_2.caseStudy.models.Product;
 
 import java.util.List;
 
